@@ -1,0 +1,36 @@
+*{
+background-color: black;
+color: white;
+}
+::placeholder{
+    color: white;
+}
+
+h1{
+    font-weight: 700px;
+    font-size: 45px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+input{
+    width: 100%;
+}
+.addTodo{
+    margin-top:25px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.items-container{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.row{
+    margin:20px;
+}
+
+.addButton{
+    min-width: 72px;
+    max-height: 37px;
+}
