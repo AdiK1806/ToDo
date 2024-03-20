@@ -1,5 +1,5 @@
 *{
-background-color: grey;
+background-color: rgb(15, 66, 96);
 color: white;
 }
 ::placeholder{
@@ -15,6 +15,7 @@ h1{
 }
 input{
     width: 100%;
+
 }
 .addTodo{
     margin-top:25px;
