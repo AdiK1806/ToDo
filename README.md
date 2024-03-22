@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React + Vite ToDo Project
+Built a ToDo App using React.js where you can add/delete todo tasks.
+Made Components 6 components and tried use state and useReducer hooks for state management.
+Also built it using both prop passing and Context API.
+Final code pushed uses Context API and useReducer hook.
